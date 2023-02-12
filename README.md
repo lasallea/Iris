@@ -65,6 +65,20 @@ The license of Iris does permit others to legally port Iris to Forge, and we are
 So, if you want to distribute a Forge port of Iris, we'd prefer if you let us know. Please don't just name your port "Iris Forge," "Iris for Forge," or "Iris Forge Port" either. Be original, and don't just hijack our name, unless we've given you permission to use one of those kinds of names. If a well-qualified group of people willing to maintain a Forge port of Iris does appear, then a name like "Iris Forge" might be appropriate - otherwise, it probably isn't appropriate.
 
 
+## Install Instructions
+
+Before downloading and installing these shaders, please make sure you are running minecraft with optifine.
+
+* Go to the [Iris](https://irisshaders.net) website and download the shaders you want.
+* Open Minecraft and click Options>Resource Packs>Open Pack Folder to find and open the folder that you want to save the shaders to.
+* Open a second File Explorer window  and navigate to the Downloads folder.
+* Right click the Iris shader folder to unzip it into the resource pack file location.
+* Once you have unzipped the file to that folder, you should see it in the Resource Packs page.
+* Move the desired resource packet from the left column over to the right to activate it.
+* Hit done, and then minecraft should reload.
+* Congrats!  You now have the beautiful Iris shaders installed.  Happy mining!
+
+
 ## Credits
 
 * **TheOnlyThing and Vaerian**, for creating the excellent logo
